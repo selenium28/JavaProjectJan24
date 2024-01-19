@@ -8,6 +8,8 @@ public class WhileLoopConcept {
 //		System.out.println("3");
 //		System.out.println("4");
 		
+		WhileLoopConcept rajanikant = new WhileLoopConcept();
+		
 		int a = 1;
 		while(a<=10) {
 			System.out.println(a);

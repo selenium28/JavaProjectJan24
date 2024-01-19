@@ -4,6 +4,9 @@ public class IfElseConditions {
 
 	public static void main(String[] args) {
 		
+		
+		IfElseConditions obj = new IfElseConditions();
+		
 		int a = 300;
 		int b = 200;
 		
