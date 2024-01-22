@@ -1,10 +1,11 @@
 package oops;
 
 public class MethodInJava_StaticNonStatic {
+	 int a = 10;
 
 //	method inside method is not allowed
 //	Non-static methods calls by using object.
-//	static methods call by using class name
+//	static methods call by using class name or direct calling 
 	
 	public static void main(String[] args) {
 	
